@@ -88,11 +88,10 @@ import {
       iconBg: "#383E56",
       date: "September 2023 - Present",
       points: [
-       "As a DevOps Tools and Automation team member at Copart Inc., I spearheaded infrastructure enhancements and workflow improvements through innovative automation solutions, boosting efficiency and reliability. My accomplishments include:",
-       "● Deployment Automation and Optimization: Streamlined Docker image deployments with Spinnaker and Kubernetes, cutting deployment times by 50% and enhancing system reliability, including efficient troubleshooting of Kubernetes pods",
-       "● CI/CD Pipeline Optimization: Improved code deployment efficiency by 30% by standardizing CI/CD pipelines with GitHub Actions and Jenkins, assessed by monitoring increases in deployment frequency and reductions in failure rates.",
-       "● System Reliability through Automation: Reduced manual intervention by 60% and improved recovery times by 70% by implementing Stack Storm for auto-remediation, evaluated using incident metrics from monitoring tools Instana and New Relic.",
-       "● Cron Job Automation for Software License Reporting: Achieved a 20% cost savings on unused software licenses by automating the generation of daily license usage reports using cron jobs."
+       "Deployment Automation and Optimization: Streamlined Docker image deployments with Spinnaker and Kubernetes, cutting deployment times by 50% and enhancing system reliability, including efficient troubleshooting of Kubernetes pods",
+       "CI/CD Pipeline Optimization: Improved code deployment efficiency by 30% by standardizing CI/CD pipelines with GitHub Actions and Jenkins, assessed by monitoring increases in deployment frequency and reductions in failure rates.",
+       "System Reliability through Automation: Reduced manual intervention by 60% and improved recovery times by 70% by implementing Stack Storm for auto-remediation, evaluated using incident metrics from monitoring tools Instana and New Relic.",
+       "Cron Job Automation for Software License Reporting: Achieved a 20% cost savings on unused software licenses by automating the generation of daily license usage reports using cron jobs."
       ]
     },
     {
