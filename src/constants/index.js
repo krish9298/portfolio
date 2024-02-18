@@ -88,7 +88,11 @@ import {
       iconBg: "#383E56",
       date: "September 2023 - Present",
       points: [
-       "Implementing Stack Storm auto remediation actions for Windows VM provisioning through Python and PowerShell scripting, measured through New Relic, reduced manual effort and deployment time by 30%"
+       "As a DevOps Tools and Automation team member at Copart Inc., I spearheaded infrastructure enhancements and workflow improvements through innovative automation solutions, boosting efficiency and reliability. My accomplishments include:",
+       "● Deployment Automation and Optimization: Streamlined Docker image deployments with Spinnaker and Kubernetes, cutting deployment times by 50% and enhancing system reliability, including efficient troubleshooting of Kubernetes pods",
+       "● CI/CD Pipeline Optimization: Improved code deployment efficiency by 30% by standardizing CI/CD pipelines with GitHub Actions and Jenkins, assessed by monitoring increases in deployment frequency and reductions in failure rates.",
+       "● System Reliability through Automation: Reduced manual intervention by 60% and improved recovery times by 70% by implementing Stack Storm for auto-remediation, evaluated using incident metrics from monitoring tools Instana and New Relic.",
+       "● Cron Job Automation for Software License Reporting: Achieved a 20% cost savings on unused software licenses by automating the generation of daily license usage reports using cron jobs."
       ]
     },
     {
@@ -178,28 +182,6 @@ import {
       image: videoChat,
       source_code_link: "https://github.com/krish9298/web-rtc-app",
       minImg: github,
-    },
-    {
-      name: "Social Book",
-      description:
-        "Developed a highly responsive social media platform using Django framework and Python for the backend, and JavaScript for frontend interactivity. Leveraged Django's powerful ORM to efficiently manage and query user profiles, posts, and interactions. Utilized Django's authentication and authorization features to ensure secure access and protect user privacy. Employed responsive design principles and CSS frameworks to create a visually appealing and user-friendly interface across devices.",
-      tags: [
-        {
-          name: "Django",
-          color: "blue-text-gradient",
-        },
-        {
-          name: "JS",
-          color: "green-text-gradient",
-        },
-        {
-          name: "Python",
-          color: "pink-text-gradient",
-        },
-      ],
-      image: socialBook,
-      source_code_link: "https://github.com/krish9298/ecomm_social_book",
-      minImg: live,
     },
     {
       name: "WhatsAI",
