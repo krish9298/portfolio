@@ -39,7 +39,7 @@ import {
   
   const services = [
     {
-      title: "Web Developer",
+      title: "DevOps Engineer",
       icon: web,
     },
     {
@@ -82,7 +82,7 @@ import {
   
   const experiences = [
     {
-      title: "DevOps Engineer Intern",
+      title: "DevOps Engineer",
       company_name: "Copart Inc.",
       icon: copart,
       iconBg: "#383E56",
@@ -103,16 +103,6 @@ import {
       points: [
         "Implemented UI for contract lifecycle modules React plugin architecture, measured based on the project delivery times, resulted in 20% reduction of team workload.",
         "Spearheaded the design and development of backend microservices-based contract creation platform using Java Spring Boot,measured through New Relic and Postman, resulted in a 30% improvement in the contract creation page load time and a 40% reduction in API data retrieval time by migrating SQL data to Neo4j"
-      ]
-    },
-    {
-      title: "Software Engineer Intern",
-      company_name: "GEP Worldwide",
-      icon: gep,
-      iconBg: "#383E56",
-      date: "December 2019 - May 2020",
-      points: [
-        "Specialized in Azure IAAS and PAAS automation deployments, Git repository management, branch integration, user support,and expertly executing CI/CD methodology with PowerShell scripting which reduced team workload by 25%"
       ]
     },
     {
