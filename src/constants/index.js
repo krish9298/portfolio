@@ -19,7 +19,8 @@ import {
     python,
     github,
     personal,
-    live
+    live,
+    att
   } from "../assets";
   
   export const navLinks = [
