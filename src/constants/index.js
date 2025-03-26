@@ -39,19 +39,19 @@ import {
   
   const services = [
     {
-      title: "DevOps Engineer",
+      title: "Innovative",
       icon: web,
     },
     {
-      title: "Frontend Developer",
+      title: "Decisive",
       icon: mobile,
     },
     {
-      title: "Backend Developer",
+      title: "Accountable",
       icon: backend,
     },
     {
-      title: "Cloud Enthusiast",
+      title: "Customer-Focused",
       icon: creator,
     }
   ];
@@ -82,24 +82,40 @@ import {
   
   const experiences = [
     {
-      title: "DevOps Engineer",
+      title: "Senior Java Developer",
+      company_name: "AT&T Inc. (via Pyramid Consulting Inc.)",
+      icon: att,
+      iconBg: "#383E56",
+      date: "June 2024 - Present",
+      points: [
+        "Engaged in the entirety of the Software Development Life Cycle (SDLC), playing a pivotal role in both the design and implementation phases of the project.",
+        "Developed the Backend solutions with Java, Spring Boot, and PostgreSQL databases. Collaborated with global teams to integrate REST APIs and Docker components into the backend systems.",
+        "Responsible for migrating the application from Spring MVC to Spring Boot in phase-1 and later implementing it into a scalable Microservices architecture on AWS using Kubernetes, managed and maintained with GitHub.",
+        "Utilized Kafka to integrate asynchronous communication patterns within the Microservices, thereby enhancing scalability and fault tolerance.",
+        "Optimized database queries and procedures, increasing application efficiency and response time by 40%.",
+        "Migrated downstream data to the cloud, implemented shell script jobs for daily and weekly data processing, and scheduled Cron Jobs for continuous updates, ensuring Data Representation is greatly improved.",
+        "Collaborated with Agile teams in daily Scrum meetings and sprint planning streamlining development to ensure Continuous Integration and Continuous Development (Cl/CD)."
+      ]
+    },
+    {
+      title: "IT Intern",
       company_name: "Copart Inc.",
       icon: copart,
       iconBg: "#383E56",
-      date: "September 2023 - Present",
+      date: "September 2023 - May 2024",
       points: [
-       "Deployment Automation and Optimization: Streamlined Docker image deployments with Spinnaker and Kubernetes, cutting deployment times by 50% and enhancing system reliability, including efficient troubleshooting of Kubernetes pods",
-       "CI/CD Pipeline Optimization: Improved code deployment efficiency by 30% by standardizing CI/CD pipelines with GitHub Actions and Jenkins, assessed by monitoring increases in deployment frequency and reductions in failure rates.",
-       "System Reliability through Automation: Reduced manual intervention by 60% and improved recovery times by 70% by implementing Stack Storm for auto-remediation, evaluated using incident metrics from monitoring tools Instana and New Relic.",
-       "Cron Job Automation for Software License Reporting: Achieved a 20% cost savings on unused software licenses by automating the generation of daily license usage reports using cron jobs."
-      ]
-    },
+        "Designed and developed Java Spring Boot microservices, optimizing DMV vehicle data processing and improving system efficiency by 40%.",
+        "Deployed and managed microservices on Kubernetes with auto-scaling and load balancing, handling 200,000+ daily API requests.",
+        "Introduced a ReactJS-based interface integrated with Elasticsearch, reducing page load times by 30% and improving front-end performance.",
+        "Implemented CI/CD pipelines with Jenkins, automating testing and deployment, reducing release cycles by 40%."
+       ]
+     },
     {
       title: "Software Engineer",
       company_name: "GEP Worldwide",
       icon: gep,
       iconBg: "#383E56",
-      date: "July 2020 - August 2022",
+      date: "May 2020 - August 2022",
       points: [
         "Implemented UI for contract lifecycle modules React plugin architecture, measured based on the project delivery times, resulted in 20% reduction of team workload.",
         "Spearheaded the design and development of backend microservices-based contract creation platform using Java Spring Boot,measured through New Relic and Postman, resulted in a 30% improvement in the contract creation page load time and a 40% reduction in API data retrieval time by migrating SQL data to Neo4j"
