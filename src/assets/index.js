@@ -45,6 +45,7 @@ import cv from "./company/cv.png"
 import whatsAI from "./whatsAI.png";
 import detection from "./detection.png";
 import medX from "./medX.png";
+import att from "./att.png"
 
 export {
   logo,
@@ -90,4 +91,5 @@ export {
   personal,
   live,
   warnimg,
+  att
 };
