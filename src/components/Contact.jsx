@@ -67,7 +67,7 @@ const Contact = () => {
           to_email: "vamsikrish9298@gmail.com",
           message: form.message,
         },
-        "vNwIIbhnLDbvJGH6W"
+        process.env.REACT_APP_EMAILJS_PUBLIC_KEY
       )
       .then(
         () => {
