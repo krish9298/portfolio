@@ -20,7 +20,8 @@ import {
     github,
     personal,
     live,
-    att
+    att,
+    amazon
   } from "../assets";
   
   export const navLinks = [
@@ -83,11 +84,21 @@ import {
   
   const experiences = [
     {
+      title: "Software Dev Engineer",
+      company_name: "Amazon",
+      icon: amazon,
+      iconBg: "#383E56",
+      date: "June 2025 - Present",
+      points: [
+        "AMC GenAI"
+      ]
+    },
+    {
       title: "Senior Java Developer",
       company_name: "AT&T Inc. (via Pyramid Consulting Inc.)",
       icon: att,
       iconBg: "#383E56",
-      date: "June 2024 - Present",
+      date: "Sep 2024 - June 2025",
       points: [
         "Engaged in the entirety of the Software Development Life Cycle (SDLC), playing a pivotal role in both the design and implementation phases of the project.",
         "Developed the Backend solutions with Java, Spring Boot, and PostgreSQL databases. Collaborated with global teams to integrate REST APIs and Docker components into the backend systems.",
@@ -103,7 +114,7 @@ import {
       company_name: "Copart Inc.",
       icon: copart,
       iconBg: "#383E56",
-      date: "September 2023 - May 2024",
+      date: "September 2023 - Aug 2024",
       points: [
         "Designed and developed Java Spring Boot microservices, optimizing DMV vehicle data processing and improving system efficiency by 40%.",
         "Deployed and managed microservices on Kubernetes with auto-scaling and load balancing, handling 200,000+ daily API requests.",
@@ -116,7 +127,7 @@ import {
       company_name: "GEP Worldwide",
       icon: gep,
       iconBg: "#383E56",
-      date: "May 2020 - August 2022",
+      date: "July 2020 - August 2022",
       points: [
         "Implemented UI for contract lifecycle modules React plugin architecture, measured based on the project delivery times, resulted in 20% reduction of team workload.",
         "Spearheaded the design and development of backend microservices-based contract creation platform using Java Spring Boot,measured through New Relic and Postman, resulted in a 30% improvement in the contract creation page load time and a 40% reduction in API data retrieval time by migrating SQL data to Neo4j"
