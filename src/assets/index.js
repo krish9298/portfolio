@@ -46,7 +46,7 @@ import whatsAI from "./whatsAI.png";
 import detection from "./detection.png";
 import medX from "./medX.png";
 import att from "./company/att.png"
-import amazon from "./company/amazon.jpeg";
+import amazon from "./company/amazon.jpg";
 
 export {
   logo,
